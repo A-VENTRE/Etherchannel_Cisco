@@ -1,4 +1,4 @@
-# 🏯 **EtherChannel & Haute Disponibilité**
+# **EtherChannel & Haute Disponibilité**
 
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/) [![EtherChannel](https://img.shields.io/badge/EtherChannel-2CA9E1?style=flat-square&logo=ethernet&logoColor=white)](https://www.cisco.com/c/en/us/support/docs/lan-switching/etherchannel/index.html) [![HSRP](https://img.shields.io/badge/HSRP-FF6F61?style=flat-square&logo=router&logoColor=white)](https://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/index.html)
 
@@ -12,7 +12,7 @@ Ce dépôt fournit des configurations et des guides pour implémenter **EtherCha
 
 
 
-## 💂 **Contenu**
+## 📂 **Contenu**
 
 - **Documentation** : Guides techniques dans `doc/`.
 - **Illustrations** : Schémas et images dans `img/`.
