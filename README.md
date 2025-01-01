@@ -4,13 +4,13 @@
 
 ![Banner](img/background.png)
 
----
+
 
 ## 📄 **Description**
 
 Ce dépôt fournit des configurations et des guides pour implémenter **EtherChannel** et **HSRP**, améliorant ainsi la **résilience** et la **disponibilité** réseau. Ces technologies permettent une redondance avancée et une optimisation de la bande passante.
 
----
+
 
 ## 💂 **Contenu**
 
@@ -18,7 +18,7 @@ Ce dépôt fournit des configurations et des guides pour implémenter **EtherCha
 - **Illustrations** : Schémas et images dans `img/`.
 - **Simulations** : Fichiers Packet Tracer (`.pka`) dans `pka/`.
 
----
+
 
 ## ⚙️ **Prérequis**
 
@@ -26,7 +26,6 @@ Ce dépôt fournit des configurations et des guides pour implémenter **EtherCha
 - Utilisation de logiciels comme Cisco Packet Tracer, GNS3 ou EVE-NG.
 - Accès à du matériel Cisco ou à un simulateur fonctionnel.
 
----
 
 ## 🔧 **Configurations Clés**
 
@@ -40,7 +39,6 @@ Ce dépôt fournit des configurations et des guides pour implémenter **EtherCha
 - Prioriser et basculer automatiquement en cas de panne.
 - Superviser les groupes HSRP actifs et en veille.
 
----
 
 ## 💪 **Stratégies de Résilience**
 
@@ -48,7 +46,6 @@ Ce dépôt fournit des configurations et des guides pour implémenter **EtherCha
 - Améliorer la disponibilité et la performance grâce à EtherChannel.
 - Mettre en place une surveillance continue pour anticiper les pannes.
 
----
 
 ## 🐟 **Optimisation**
 
@@ -57,8 +54,6 @@ Ce dépôt fournit des configurations et des guides pour implémenter **EtherCha
 - Configurer le protocole STP pour éviter les boucles tout en assurant une redondance.
 - Planifier des tests réguliers pour valider les configurations et la résilience.
 
----
-
 ## 📂 **Fichiers Packet Tracer**
 
 1. `Bloc2_sem3-4_atelier-04_redondance_etherchannel-exo-1-depart.pkt`
@@ -66,7 +61,6 @@ Ce dépôt fournit des configurations et des guides pour implémenter **EtherCha
 3. `Bloc2_sem3-4_atelier-04_redondance_Troubleshoot_HSRP.pka`
 4. `Bloc2_sem3-4_atelier-04_redondance_etherchannel-avancer.pkt`
 
----
 
 ### **Date de Création**
 
